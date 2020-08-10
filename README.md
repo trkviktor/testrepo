@@ -1,1 +1,2 @@
 # testrepo
+ jó munka öcskös
